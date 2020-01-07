@@ -6,3 +6,4 @@ Problems.fibo()
 
 primes= Problems.PrimeFactors()
 primes.primeFactorsNumber(600851475143)
+Problems.palindromic()
